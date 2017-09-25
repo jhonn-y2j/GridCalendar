@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GridCalendar</string>
+
+    <string name="format_hour_day">:00 a.m.</string>
+    <string name="format_hour_night">:00 p.m.</string>
+    <string name="format_hour_late">:00 m.</string>
+    <string name="service">Servicio</string>
+
+    <array name="header_flow_pager">
+        <item>Servicio</item>
+        <item>Elegir Fecha</item>
+        <item>Elegir Hora</item>
+        <item>Datos del cliente</item>
+    </array>
+
+</resources>
